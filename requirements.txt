@@ -1,0 +1,17 @@
+# Dynamic Traffic Light Control with Multi‑Agent RL
+# Python dependencies with version pins
+# -------------------------------------------------
+# Core scientific stack
+numpy==1.26.4          # Fundamental array library
+matplotlib==3.8.2      # Plotting and visualization
+
+# Reinforcement learning ecosystem
+torch==2.2.2           # PyTorch deep learning framework
+gymnasium==0.29.1      # Standard RL environment interface
+
+# Optional utilities (uncomment if needed)
+# tqdm==4.66.2          # Progress bars for training loops
+# pandas==2.2.2         # Data handling and analysis
+# seaborn==0.13.2       # Enhanced statistical visualizations
+
+# End of requirements.txt
